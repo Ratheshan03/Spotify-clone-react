@@ -1,3 +1,6 @@
+# Spotify clone with all basic features 🎵
+(Spotify premium members can listen song)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
